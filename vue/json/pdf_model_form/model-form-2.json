@@ -1,0 +1,68 @@
+{
+  "model_id": 2,
+  "info": {
+    "label": "INFORMATIONS À PRÉCISER",
+    "data": ["date_naissance"],
+    "inputs": [
+      {
+        "fieldType": "datetime",
+        "label": "Date de naissance"
+      }
+    ]
+  },
+  "from": {
+    "label": "EXPÉDITEUR",
+    "data": [
+      "from_name1",
+      "from_name2",
+      "from_adress",
+      "from_cp",
+      "from_ville"
+    ],
+    "inputs": [
+      {
+        "fieldType": "normal",
+        "label": "Nom"
+      },
+      {
+        "fieldType": "normal",
+        "label": "Prénom"
+      },
+      {
+        "fieldType": "large",
+        "label": "Adresse"
+      },
+      {
+        "fieldType": "normal",
+        "label": "Code postal"
+      },
+      {
+        "fieldType": "normal",
+        "label": "Ville"
+      }
+    ]
+  },
+  "to": {
+    "label": "DESTINATAIRE",
+    "data": ["to_name", "to_adress", "to_cp", "to_ville"],
+    "subtitle": "Adressez votre courrier à la succursale de la Banque de France la plus proche de votre domicile. ",
+    "inputs": [
+      {
+        "fieldType": "normal",
+        "label": "Nom de la succursale départementale de la Banque de France"
+      },
+      {
+        "fieldType": "large",
+        "label": "Adresse"
+      },
+      {
+        "fieldType": "normal",
+        "label": "Code Postal"
+      },
+      {
+        "fieldType": "normal",
+        "label": "Ville"
+      }
+    ]
+  }
+}

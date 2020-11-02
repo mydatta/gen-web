@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Accéder au Fichier Central des Chèques (FCC)",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/html_templates/model-1.html",
+    "form": "/json/pdf_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 2,
+    "title": "Accéder aux données du Fichier national des Incidents de Remboursement de Crédit (FICP)",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/html_templates/model-2.html",
+    "form": "/json/pdf_model_form/model-form-2.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 3,
+    "title": "Rectifier des données incomplètes",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-3.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 4,
+    "title": "Rectifier des données inexactes ",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-4.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 5,
+    "title": "Accéder à des données de géolocalisation ou à un dispositif de contrôle d'accès",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-5.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 6,
+    "title": "Exercer son droit d'accès",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-6.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 7,
+    "title": "Accéder à des images vidéo vous concernant",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-7.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 8,
+    "title": "S’opposer à la réception de prospection commerciale (par mail, SMS, courriers )",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-8.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 9,
+    "title": "Clôturer un compte en ligne",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-9.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 10,
+    "title": "Supprimer des informations vous concernant d'un site internet",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-10.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 11,
+    "title": "Accéder à son dossier médical",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-11.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  },
+  {
+    "id": 12,
+    "title": "Accéder aux informations contenues dans PREVENTEL",
+    "object": "Savoir si vous êtes inscrit au Fichier Central des Chèques (FCC)",
+    "template": "/json/email_templates/model-12.html",
+    "form": "/json/email_model_form/model-form-1.json",
+    "pdf": "/json/pdf_template/pdf_model-1.json"
+  }
+]
